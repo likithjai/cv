@@ -1,0 +1,104 @@
+likith2018thermodynamic:
+  type: article
+  title: Thermodynamic stability of molybdenum oxycarbides formed from orthorhombic Mo₂C in oxygen-rich environments
+  author:
+  - Likith, SRJ
+  - Farberow, CA
+  - Manna, S
+  - Abdulslam, A
+  - Stevanovic, V
+  - Ruddy, DA
+  - Schaidle, JA
+  - Robichaud, DJ
+  - Ciobanu, CV
+  date: 2018
+  page-range: 1223-1233
+  parent:
+    type: periodical
+    title: The Journal of Physical Chemistry C
+    publisher: ACS Publications
+    issue: 2
+    volume: 122
+likith2020chalcogenide:
+  type: book
+  title: Chalcogenide-Based van der Waals-Layered Materials for Enhanced Electronic and Electromechanical Properties
+  author: Likith, SRJ Jai
+  date: 2020
+  publisher: Colorado School of Mines
+stan2020doping:
+  type: article
+  title: Doping of MoTe₂ via surface charge-transfer in air
+  author:
+  - Stan, Gheorghe
+  - Ciobanu, Cristian V
+  - Likith, Sri Ranga Jai
+  - Rani, Asha
+  - Zhang, Siyuan
+  - Hacker, Christina A
+  - Krylyuk, Sergiy
+  - Davydov, Albert V
+  date: 2020
+  page-range: '18182'
+  parent:
+    type: periodical
+    title: ACS applied materials & interfaces
+    issue: 15
+    volume: 12
+likith2024interlayer:
+  type: article
+  title: Interlayer registry effects on the electronic and piezoelectric properties of transition metal dichalcogenide bilayers
+  author:
+  - Likith, SRJ
+  - Brennecka, Geoff L
+  - Ciobanu, Cristian V
+  date: 2024
+  parent:
+    type: periodical
+    title: Journal of Vacuum Science & Technology A
+    publisher: AIP Publishing
+    issue: 3
+    volume: 42
+tewary2022modeling:
+  type: book
+  title: 'Modeling, Characterization, and Production of Nanomaterials: Electronics, Photonics, and Energy Applications'
+  author:
+  - Tewary, Vinod
+  - Zhang, Yong
+  date: 2022
+  publisher: Woodhead Publishing
+jai2022structure:
+  type: article
+  title: Structure and stability of van der Waals layered group-IV monochalcogenides
+  author:
+  - Jai Likith, Sri Ranga
+  - Ciobanu, Cristian V
+  date: 2022
+  parent:
+    type: periodical
+    title: Journal of Vacuum Science & Technology A
+    publisher: AIP Publishing
+    issue: 5
+    volume: 40
+finfrock2022elucidating:
+  type: article
+  title: Elucidating the temperature dependence of TRIP in Q&P steels using synchrotron X-Ray diffraction, constituent phase properties, and strain-based kinetics models
+  author:
+  - Finfrock, Christopher B
+  - Ellyson, Benjamin
+  - Likith, Sri Ranga Jai
+  - Smith, Douglas
+  - Rietema, Connor J
+  - Saville, Alec I
+  - Thrun, Melissa M
+  - Becker, C Gus
+  - Araujo, Ana L
+  - Pavlina, Erik J
+  - others
+  date: 2022
+  page-range: '118126'
+  parent:
+    type: periodical
+    title: Acta Materialia
+    publisher: Elsevier
+    volume: 237
+
