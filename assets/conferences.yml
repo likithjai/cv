@@ -1,0 +1,41 @@
+likith2022local:
+  type: article
+  title: Local Distortion Effects on the Dynamic Lattice Stability in the BCC Phase of Titanium and its Alloys
+  author:
+    - Likith, SRJ
+    - Clarke, Amy
+  date: 2022
+  parent:
+    type: proceedings
+    title: TMS Annual Meeting & Exhibition
+stan2020native:
+  type: article
+  title: Native and induced surface charge-transfer doping of MoTe2
+  author:
+    - Stan, G
+    - Ciobanu, CV
+    - Likith, SRJ
+    - Rani, A
+    - Krylyuk, S
+    - Davydov, AV
+  date: 2020
+  parent:
+    type: periodical
+    title: Bulletin of the American Physical Society
+farberow2019thermodynamic:
+  type: article
+  title: Thermodynamic Stability of Molybdenum Oxycarbides Formed from Orthorhombic Mo2C in Oxygen-Rich Environments
+  author:
+    - Farberow, CA
+    - Likith, SRJ
+    - Manna, S
+    - Abdulslam, A
+    - Stevanović, V
+    - Ruddy, DA
+    - Schaidle, JA
+    - Robichaud, DJ
+    - Ciobanu, CV
+  date: 2019
+  parent:
+    type: proceedings
+    title: North American Catalysis Society Meeting

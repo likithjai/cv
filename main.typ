@@ -13,6 +13,7 @@
   [#link("mailto:" + email)[#email]],
   [#link("https://" + github)[#github]],
   [#link("https://" + linkedin)[#linkedin]],
+  [#link("https://" + linkedin)[#linkedin]],
 )
 #let location = "Bangalore, KA"
 
@@ -95,8 +96,10 @@
   date: "2024 - Present",
   location: "Bangalore, KA",
   details: [
-    - lorem
-    - ipsum
+    - Developed software tools to help scale a mutual fund distribution business
+    - Automating the generation of customizable assets for clients
+    - Developed and maintained a highly specialized CRM web-app for the company's internal use using the *Django* framework (Python)
+    - Shooting, video and audio editing, and publishing to social media of financial literacy short-form videos
   ],
 )
 
@@ -160,10 +163,10 @@
 = Skills
 #skills((
   (
-    "Expertise",
+    "Applications",
     (
-      [Distributed Systems],
-      [Real-Time Operating Systems],
+      [Vienna _Ab-initio_ Simulation Package (VASP), Visualization for Electronic and STructural Analysis (VESTA) ],
+      [Amsterdam Density Functional (ADF)],
       [Signal Processing],
       [Embedded Security],
       [FPGA Architectures],
@@ -173,30 +176,24 @@
     ),
   ),
   (
-    "Software",
-    (
-      [C/C++],
-      [Rust],
-      [SystemVerilog],
-      [Matlab],
-      [Linux Kernel],
-      [Docker],
-      [Kubernetes],
-      [Jenkins],
-      [gRPC],
-      [Git],
-      [Yocto Project],
-    ),
-  ),
-  (
     "Languages",
     (
       [Python],
-      [C/C++],
-      [Rust],
-      [Shell],
-      [SystemVerilog],
-      [VHDL],
+      [Go (beginner)],
+      [Rust (beginner)],
+      [Matlab],
+      [Docker/Podman],
+      [Git],
+    ),
+  ),
+  (
+    "Word-processing",
+    (
+      [Typst],
+      [LaTeX],
+      [Emacs],
+      [MS Office],
+      [LibreOffice/OpenOffice],
     ),
   ),
 ))
@@ -210,7 +207,10 @@
 #show "S. Likith": strong
 #show "S. J. Likith": strong
 #show "S. R. Jai Likith": strong
-= Publications
+
+= Publications, Presentations, and Posters
+
+== Publications
 #pub-list(
   bib: bibliography("assets/publications.yml"),
   // style: "full",
@@ -225,3 +225,86 @@
 // Local Variables:
 // typst-preview--master-file: "/home/lik/Documents/cv/main.typ"
 // End:
+
+== Conferences
+- *S.R.J. Likith* (Designated Speaker), Amy Clarke \
+  Local Distortion Effects on the Dynamic Lattice Stability in the BCC Phase of Titanium and its Alloys \
+  _TMS Annual Meeting & Exhibition, 2022_
+
+- G. Stan, C.V. Ciobanu, S.R.J. Likith, A. Rani, S. Krylyuk, A.V. Davydov \
+  Native and induced surface charge-transfer doping of MoTe₂\
+  _Bulletin of the American Physical Society, 2020_
+
+- C.A. Farberow, S.R.J. Likith, S. Manna, A. Abdulslam, V. Stevanović, D.A. Ruddy, J.A. Schaidle, D.J. Robichaud, C.V. Ciobanu \
+  Thermodynamic Stability of Molybdenum Oxycarbides Formed from Orthorhombic Mo₂C in Oxygen-Rich Environments \
+  _North American Catalysis Society Meeting, 2019_
+
+== Posters
+- *S.R.J. Likith*, C.V. Ciobanu \
+  Quasi-2D Group-IV Monochalcogenides: A DFT Search \
+  _Materials Research Society Dec 2019_
+- *S.R.J. Likith*, C.V. Ciobanu \
+  Performance of van der Waals Density Functionals for Group-IV Monochalcogenides \
+  _Materials Research Society Dec 2019_
+
+
+= Research Projects
+- *2D Materials* \
+  Colorado School of Mines, Golden, CO 80401, USA
+  - Studied the electronic and piezoelectric properties of 2D and quasi-2D (van der Waals-layered) materials using atomistic modeling (Density Functional Theory, DFT)
+  - Modeling van der Waals-dominated systems, computational discovery strategies, and automating tasks
+  - Text file manipulation, compiling relevant information from large numbers of files, and post-processing data (e.g., plotting) using Python
+
+- *Piezoelectric materials* \
+  Colorado School of Mines, Golden, CO 80401, USA
+  - Computational discovery of Perovskite Nitrides and Transition Metal Dichalcogenide heterostructures for piezoelectric applications
+  - Interplay between electronic and mechanical behaviour of materials
+  - Analysing large sets of data and mechanical behaviour of materials
+
+- *Transition metal carbide catalysts* \
+  Colorado School of Mines, Golden, CO 80401, USA
+  - Studied the structure and composition of metal carbide catalysts for ex-situ catalytic fast pyrolysis
+  - High-throughput computation strategies, thermodynamics and energetics of adsorption
+  - Large-scale text file manipulation using bash, and post-processing data using MATLAB
+
+
+
+= Outreach and other Activities
+#exp(
+  title: "Outreach Speaker",
+  organization: "Colorado High-School Science Outreach",
+  date: "2017-2020",
+  location: "Golden, CO, USA",
+  details: [
+    - Presented research-related science topics to middle and high-school students
+    - Pedagogy and presentation skills
+    - Ability to explain a complex concept to someone outside the field or is at a middle or high-school level
+  ],
+)
+
+
+#exp(
+  title: "Colorado State-level Event Supervisor",
+  organization: "Science Olympiad",
+  date: "2017-2020",
+  location: "Greenwood Village, CO, USA",
+  details: [
+    - Supervised a chemistry experiment event for high-school students from around the state
+    - Explained some basic chemistry concepts on-the-fly, ensured safety of all involved
+    - Hands-on teaching and managing event logistics
+  ],
+)
+
+
+#exp(
+  title: "Workshop Participant",
+  organization: "STEM Guitar Workshop",
+  date: "2019",
+  location: "Golden, CO",
+  details: [
+    - Built a fully functional and tuned electric guitar
+    - Wood-working, dip-painting, electronic circuitry, soldering, intonation and tuning
+    - Applied materials science, physics and electronics concepts to the building and functioning of an electric guitar
+  ],
+)
+
